@@ -1,0 +1,20 @@
+   ______________________________
+ / \                             \.
+|   |                            |.
+ \_ |  Greetings traveler.       |.
+    |  Welcome to the land of    |.
+    |  Ervinia!                  |.
+    |                            |.
+    |  You have somehow made     |.
+    |  your way here, and you    |.
+    |  will face many challenges |.
+    |  as you make your way      |.
+    |  through the land.         |.
+    |                            |.
+    |  But first, tell me your   |.
+    |  name...                   |.
+    |   _________________________|___
+    |  /                            /.
+    \_/____________________________/.
+    
+    
