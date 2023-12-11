@@ -3,11 +3,23 @@ Final project for 2270, choose your own adventure game.
 
 Welcome to my final project for CSPB 2270!
 
-This project is an expansion on the use of binary trees through implementing them to
-maximize readability and effeciency of choose your own adventure games. The issue with most
+Running this project is extremely easy, as it is only a main file as well as a folder of images.
+Simply compile main.cpp in the terminal and run it and the game will start. All decisions which
+require the user to enter an input must be done in caps. 
+
+This project is an expansion on the use of binary trees by using them to
+maximize readability and effeciency within a choose your own adventure game. The issue with most
 of these games as a coding project is they rely on deeply nested if/else statements. By using
 binary trees, it is possible to only include a handful of if/else statements in the traversal
-function which only useses them to go left or right as well as replay or quit. 
+function, which only relies on them to go left or right as well as replay or quit. 
+
+While the plan was to have a large amount of trees, this project uses only a handful as I decided
+to focus on creating a functional story line to make the project engaging as opposed to a shallow
+experience with more trees. There are many, many ways to 'die' in the game and only one path will lead
+the user to winning. A forest of trees was used as a method to keep track of each part of the game,
+as well as to create distinct branches. In the future, I'd like to add more. For example, I want the user
+to be able to select 'visit store', and if they choose to do so, the left child of that node will be a 
+pointer to the root node of the 'store' tree where a user can purchase goods such as food and potions.
 
 The traversal function is the "engine" of the game as it checks if a node has both children.
 There are three options here:
